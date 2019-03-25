@@ -1,0 +1,1 @@
+{"version":3,"sources":["default.scss"],"names":[],"mappings":"AACI;EACI;EACA","file":"parcel-demo.e31bb0bc.css","sourceRoot":"..","sourcesContent":["body{\r\n    p{\r\n        height: 100px;\r\n        background:greenyellow;\r\n    }\r\n}"]}
